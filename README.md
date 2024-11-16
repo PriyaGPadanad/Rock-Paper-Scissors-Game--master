@@ -37,4 +37,4 @@ Extend the game to include additional choices (e.g., "Lizard" and "Spock").
 Create a scoreboard that persists using local storage or a database.
 
 Demo
-Check out the live demo: 
+Check out the live demo: https://priyagpadanad.github.io/Rock-Paper-Scissors-Game--master/
